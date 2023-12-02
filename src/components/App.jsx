@@ -1,16 +1,16 @@
+import { Wrapper } from './App.styled';
+import { Header } from './Header/Header';
+import { Hero } from './Hero/Hero';
+import { Container } from './Container/Container';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <Wrapper>
+      {/* <Container> */}
+      <Header />
+      <Hero />
+
+      {/* </Container> */}
+    </Wrapper>
   );
 };
