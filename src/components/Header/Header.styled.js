@@ -5,15 +5,13 @@ export const StyledHeader = styled.header`
   background-color: #000;
   height: 100px;
   width: 100%;
-`;
-
-export const Logo = styled.p`
-  color: white;
-  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 `;
 
 export const Image = styled.img`
-  width: auto;
+  width: 50px;
   height: auto;
   color: white;
   object-fit: cover;
