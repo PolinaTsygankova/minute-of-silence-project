@@ -11,3 +11,10 @@ export const Logo = styled.p`
   color: white;
   margin: 0;
 `;
+
+export const Image = styled.img`
+  width: auto;
+  height: auto;
+  color: white;
+  object-fit: cover;
+`;
