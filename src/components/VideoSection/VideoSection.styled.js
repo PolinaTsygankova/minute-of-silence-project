@@ -23,7 +23,13 @@ export const StyledIframe = styled.iframe`
 `;
 
 export const SubTitle = styled.p`
+  margin: 0;
+  margin-bottom: 16px;
   width: 900px;
   font-size: 17px;
   color: #ffe;
+
+  &:last-child {
+    text-align: right;
+  }
 `;
