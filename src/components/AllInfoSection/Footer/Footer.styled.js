@@ -16,6 +16,6 @@ export const Title = styled.h2`
 `;
 
 export const Subtitle = styled.h3`
-  color: #ffe;
-  font-size: 20px;
+  color: #fff;
+  font-size: 18px;
 `;

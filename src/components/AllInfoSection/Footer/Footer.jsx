@@ -5,7 +5,7 @@ export const Footer = () => {
   return (
     <StyledFooter>
       <Title>СЛАВА УКРАЇНІ!</Title>
-      <Subtitle>Автор: Циганкова Поліна</Subtitle>
+      <Subtitle>Created by Tsygankova Polina &#169; 2023</Subtitle>
     </StyledFooter>
   );
 };
