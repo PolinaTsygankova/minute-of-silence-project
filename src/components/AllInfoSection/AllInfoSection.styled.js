@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const StyledAllInfoSection = styled.section`
-  padding: 100px 30px;
+  padding: 100px 50px;
   height: 700px;
   display: flex;
   justify-content: center;
@@ -16,10 +16,14 @@ export const StyledAllInfoSection = styled.section`
 `;
 
 export const Title = styled.h2`
-  /* margin: 0; */
-  margin-bottom: 58px;
+  margin: 0;
   color: #ffe;
   font-size: 42px;
+  margin-bottom: 40px;
+
+  @media screen and (max-width: 1440px) {
+    margin-bottom: 12px;
+  }
 `;
 
 export const Wrapper = styled.div`
