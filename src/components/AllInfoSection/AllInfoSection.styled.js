@@ -22,7 +22,7 @@ export const Title = styled.h2`
   margin-bottom: 40px;
 
   @media screen and (max-width: 1440px) {
-    margin-bottom: 12px;
+    margin-bottom: 54px;
   }
 `;
 

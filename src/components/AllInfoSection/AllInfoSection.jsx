@@ -10,7 +10,7 @@ export const AllInfoSection = () => {
         <iframe
           width="560"
           height="315"
-          src="https://www.youtube.com/embed/hgChJswtqeE?si=sZdNVXJ7eiAJYK1M"
+          src="https://www.youtube.com/embed/-H3fv4jvS2k?si=oDqlNElR1hOz_m_r"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
@@ -40,7 +40,7 @@ export const AllInfoSection = () => {
         <iframe
           width="560"
           height="315"
-          src="https://www.youtube.com/embed/vC8IbHqR1DY?si=kvfZq04Yy_EDX9LZ"
+          src="https://www.youtube.com/embed/KTgGHQ4vUgc?si=G2GttPJvEu1To9uQ"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
