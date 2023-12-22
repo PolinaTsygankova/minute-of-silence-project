@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/minute-of-silence-project/static/css/main.df72b1bf.css",
-    "main.js": "/minute-of-silence-project/static/js/main.5217ebb2.js",
+    "main.js": "/minute-of-silence-project/static/js/main.c8c4ced2.js",
     "index.html": "/minute-of-silence-project/index.html",
     "main.df72b1bf.css.map": "/minute-of-silence-project/static/css/main.df72b1bf.css.map",
-    "main.5217ebb2.js.map": "/minute-of-silence-project/static/js/main.5217ebb2.js.map"
+    "main.c8c4ced2.js.map": "/minute-of-silence-project/static/js/main.c8c4ced2.js.map"
   },
   "entrypoints": [
     "static/css/main.df72b1bf.css",
-    "static/js/main.5217ebb2.js"
+    "static/js/main.c8c4ced2.js"
   ]
 }
